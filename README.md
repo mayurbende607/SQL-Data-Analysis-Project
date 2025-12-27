@@ -15,6 +15,7 @@ It simulates a real-world **student–course enrollment system** and is ideal fo
 ## 📂 Project Structure
 SQL-Data-Analysis-Project/
 │
+├── Screenshot
 ├── 1_create_tables.sql
 ├── 2_insert_data.sql
 ├── 3_queries.sql
