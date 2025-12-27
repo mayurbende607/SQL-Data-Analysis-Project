@@ -111,6 +111,14 @@ Contains **30+ SQL queries**, including:
 4. Execute `3_queries.sql`
 
 ---
+## 📸 Project Screenshots
+
+### MySQL Query Execution
+![MySQL Query](screenshots/query.png)
+
+
+---
+
 
 ## 🎯 Purpose of the Project
 - SQL interview preparation
