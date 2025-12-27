@@ -115,7 +115,7 @@ Contains **30+ SQL queries**, including:
 ## 📸 Project Screenshots
 
 ### MySQL Query Execution
-![MySQL Query](screenshots/query.png)
+![MySQL Query](screenshots/3query.png)
 
 
 ---
